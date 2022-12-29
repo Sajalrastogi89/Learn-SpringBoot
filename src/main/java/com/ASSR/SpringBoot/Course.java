@@ -1,5 +1,6 @@
 package com.ASSR.SpringBoot;
 
+
 public class Course {
 
 	//Constructor
