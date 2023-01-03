@@ -17,10 +17,10 @@ public class CourseController {
 				new Course(3,"Spring Cloud","Sajal Rastogi"),
 				new Course(4,"Full Stack","Sajal Rastogi"),
 				new Course(5,"Spring Security","Sajal Rastogi"),
-				new Course(5,"Spring Security","Sajal Rastogi")
+				new Course(6,"Spring Security","Sajal Rastogi")
 				);
 	}
 	
-	
+
 	
 }
