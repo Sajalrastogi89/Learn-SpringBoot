@@ -22,7 +22,7 @@ public class CourseController {
 	}
 	@RequestMapping("/name")
 	public String name() {
-		return "Sajal Rastogi";
+		return "Sajal Rastogi ASSR";
 	}
 	
 }
