@@ -21,6 +21,8 @@ public class CourseController {
 				);
 	}
 	
-
+	public String name() {
+		return "Sajal Rastogi";
+	}
 	
 }
