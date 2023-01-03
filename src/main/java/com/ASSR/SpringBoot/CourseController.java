@@ -20,7 +20,7 @@ public class CourseController {
 				new Course(6,"Spring Security","Sajal Rastogi")
 				);
 	}
-	
+	@RequestMapping("/name")
 	public String name() {
 		return "Sajal Rastogi";
 	}
